@@ -1,16 +1,17 @@
 # chat-app
-company: CODTECH IT SOLUTIONS
+Company: CODTECH IT SOLUTIONS
 
-name: vakada daya satya sagar
+Name: vakada daya satya sagar
 
-intern id: CITS0D442
+Intern id: CITS0D442
 
-domain: FRONTEND DEVELOPMENT
+Domain: FRONTEND DEVELOPMENT
 
-duration: 4 weeks
+Duration: 4 weeks
 
-mentor: neela santhosh
+Mentor: neela santhosh
 
-# I had been used both frontend and backend for responsing to a chat.And also i take references from the internet
+I had been used both frontend and backend for responsing to a chat.While i am implementing the project i had faced many issues i overcomed from it.
 
 #output
+![Image](https://github.com/user-attachments/assets/4b758ccb-76f7-4963-9b45-a2b2fb93e4d8)
